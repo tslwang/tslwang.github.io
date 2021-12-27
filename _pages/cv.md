@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,30 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D (Psychology), UNSW Sydney, 2012
+* B. Psychology, UNSW Sydney, 2008
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Senior Data Scientist
+  * May 2018 - Present
+  * Cluey Learning, Sydney, Australia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Research Scientist
+  * March 2015 - February 2018
+  * Perception and Action Lab 
+  * Lab Director: A/Prof Joo-Hyun Song 
+  * Brown University, RI, USA
+
+* Research Scientist
+  * July 2012 - December 2014
+  * Knowledge, Information, and Learning Lab
+  * Lab Director: A/Prof Daniel R. Little 
+  * University of Melbourne, Australia
+
+* Casual Academic
+  * March 2008 - June 2012
+  * Department of Psychology
+  * UNSW Sydney, Australia
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Science
+  * Statistical Analyses
+  * Machine Learning
+  * Computational and Mathematical Modelling
+  * Quantitative Research
+  * Data Visualisation
+* Software Development
+  * Python
+  * SQL
+  * AWS
+  * Hadoop/Spark
+  * MATLAB
+  * R
+* Leadership and Management
+  * Project Management
+  * Agile Development
+  * Designing Roadmaps
 
 Publications
 ======
@@ -42,18 +63,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* UNSW Sydney Science Industry Mentor 
+* Psychonomic Society Member 
