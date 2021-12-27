@@ -1,0 +1,7 @@
+---
+title: "Visual attention and motor learning"
+excerpt: "Divided attention serves as a mental context for motor performance <br/><img src='/images/motorlearning_thumb.jpeg'>"
+collection: portfolio
+---
+
+The ability to learn and perform motor skills, such as driving a car, is a fundamental aspect of human behavior and is often critical for daily function. We often have to complete these actions in environments in which multiple distracters compete for our mental capacity. In order to replicate motor learning in the laboratory, participants complete a visuomotor adaptation task in which they reach toward a visual target whilst overcoming an external perturbation between their reach movement and visual feedback. [I showed that learning this task when attention was divided did not impair learning or limit the transfer of learning to untrained target locations](https://journals.physiology.org/doi/full/10.1152/jn.00089.2017). Surprisingly, inconsistency in the task environment (i.e. divided vs. undivided attention) between initial training and the transfer task reduced the generalization of adaptation to untrained targets. The finding’s novelty is that the internal cognitive state (i.e. divided attention) serves as a contextual cue for the recall and generalization of motor performance. In the paper, I proposed a two-process reinforcement learning model, corresponding to the explicit and implicit components of adaptation, to explain how adaptation transfers to untrained directions and how contextual cues affect transfer. 
